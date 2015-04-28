@@ -5,10 +5,9 @@ setup(
 	version="0.0.1",
 	author="Roger G. Coram",
 	author_email="roger.coram@bl.uk",
-	packages=[ "daemonize" ],
+	packages=["daemonize"],
 	license="LICENSE.txt",
-	description="Python daemon implementation.",
-	long_description=open( "README.md" ).read(),
-	install_requires=[
-	],
+	description="Python 3.x daemon implementation.",
+	long_description=open("README.md").read(),
+	install_requires=[],
 )
