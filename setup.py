@@ -7,7 +7,7 @@ setup(
 	author_email="roger.coram@bl.uk",
 	packages=[ "daemonize" ],
 	license="LICENSE.txt",
-	description="Python daemon implementation.",
+	description="Python 2.x daemon implementation.",
 	long_description=open( "README.md" ).read(),
 	install_requires=[
 	],
